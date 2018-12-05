@@ -1,0 +1,506 @@
+{
+  "batchId" : "0c585a0e-4c48-441b-a1f2-c66aa0128ea1",
+  "batchTimestamp" : "2018-12-04T01:40:30Z",
+  "categories" : [ {
+    "label" : "/law, govt and politics/government/government contracting and procurement",
+    "score" : 0.91708
+  }, {
+    "label" : "/business and industrial/business operations/management/business process",
+    "score" : 0.883805
+  }, {
+    "label" : "/finance/financial news",
+    "score" : 0.744356
+  } ],
+  "concepts" : [ {
+    "dbpediaResource" : "http://dbpedia.org/resource/Project_management",
+    "relevance" : 0.971589,
+    "text" : "Project management"
+  }, {
+    "dbpediaResource" : "http://dbpedia.org/resource/Invoice",
+    "relevance" : 0.871592,
+    "text" : "Invoice"
+  }, {
+    "dbpediaResource" : "http://dbpedia.org/resource/Receipt",
+    "relevance" : 0.66334,
+    "text" : "Receipt"
+  }, {
+    "dbpediaResource" : "http://dbpedia.org/resource/Financial_regulation",
+    "relevance" : 0.604528,
+    "text" : "Financial regulation"
+  }, {
+    "dbpediaResource" : "http://dbpedia.org/resource/Out-of-pocket_expenses",
+    "relevance" : 0.589942,
+    "text" : "Out-of-pocket expenses"
+  }, {
+    "dbpediaResource" : "http://dbpedia.org/resource/Reimbursement",
+    "relevance" : 0.574998,
+    "text" : "Reimbursement"
+  }, {
+    "dbpediaResource" : "http://dbpedia.org/resource/The_Contractor",
+    "relevance" : 0.520828,
+    "text" : "The Contractor"
+  }, {
+    "dbpediaResource" : "http://dbpedia.org/resource/Australian_Business_Number",
+    "relevance" : 0.51803,
+    "text" : "Australian Business Number"
+  }, {
+    "dbpediaResource" : "http://dbpedia.org/resource/Authorization",
+    "relevance" : 0.514987,
+    "text" : "Authorization"
+  }, {
+    "dbpediaResource" : "http://dbpedia.org/resource/Change_control",
+    "relevance" : 0.506783,
+    "text" : "Change control"
+  }, {
+    "dbpediaResource" : "http://dbpedia.org/resource/Project_manager",
+    "relevance" : 0.505398,
+    "text" : "Project manager"
+  }, {
+    "dbpediaResource" : "http://dbpedia.org/resource/Agreement",
+    "relevance" : 0.504681,
+    "text" : "Agreement"
+  }, {
+    "dbpediaResource" : "http://dbpedia.org/resource/Deliverable",
+    "relevance" : 0.490821,
+    "text" : "Deliverable"
+  } ],
+  "entities" : [ {
+    "count" : 18,
+    "disambiguation" : null,
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.911144,
+    "sentiment" : null,
+    "text" : "SOW",
+    "type" : "Movie"
+  }, {
+    "count" : 3,
+    "disambiguation" : null,
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.422151,
+    "sentiment" : null,
+    "text" : "Contractor and Client",
+    "type" : "JobTitle"
+  }, {
+    "count" : 3,
+    "disambiguation" : null,
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.35651,
+    "sentiment" : null,
+    "text" : "Client Project Manager",
+    "type" : "JobTitle"
+  }, {
+    "count" : 4,
+    "disambiguation" : null,
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.269979,
+    "sentiment" : null,
+    "text" : "XYZ Corp",
+    "type" : "Company"
+  }, {
+    "count" : 1,
+    "disambiguation" : null,
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.258163,
+    "sentiment" : null,
+    "text" : "Contractor or Client",
+    "type" : "JobTitle"
+  }, {
+    "count" : 4,
+    "disambiguation" : {
+      "dbpediaResource" : "http://dbpedia.org/resource/Vancouver",
+      "name" : "Vancouver",
+      "subtype" : [ "PoliticalDistrict", "GovernmentalJurisdiction", "OlympicBiddingCity", "OlympicHostCity", "PlaceWithNeighborhoods", "City" ]
+    },
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.251147,
+    "sentiment" : null,
+    "text" : "Vancouver",
+    "type" : "Location"
+  }, {
+    "count" : 1,
+    "disambiguation" : null,
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.236637,
+    "sentiment" : null,
+    "text" : "Client Cost Center",
+    "type" : "Facility"
+  }, {
+    "count" : 4,
+    "disambiguation" : {
+      "dbpediaResource" : null,
+      "name" : null,
+      "subtype" : [ "Country" ]
+    },
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.233916,
+    "sentiment" : null,
+    "text" : "BC",
+    "type" : "Location"
+  }, {
+    "count" : 3,
+    "disambiguation" : null,
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.215998,
+    "sentiment" : null,
+    "text" : "RKO Solutions",
+    "type" : "Company"
+  }, {
+    "count" : 1,
+    "disambiguation" : {
+      "dbpediaResource" : "http://dbpedia.org/resource/RKO_Pictures",
+      "name" : "RKO Pictures",
+      "subtype" : [ "FilmDistributor", "ProductionCompany", "AwardNominee", "AwardWinner" ]
+    },
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.210857,
+    "sentiment" : null,
+    "text" : "RKO",
+    "type" : "Company"
+  }, {
+    "count" : 1,
+    "disambiguation" : null,
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.185317,
+    "sentiment" : null,
+    "text" : "Project Manager Name",
+    "type" : "JobTitle"
+  }, {
+    "count" : 2,
+    "disambiguation" : null,
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.167384,
+    "sentiment" : null,
+    "text" : "Project Manager",
+    "type" : "JobTitle"
+  }, {
+    "count" : 1,
+    "disambiguation" : null,
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.153977,
+    "sentiment" : null,
+    "text" : "professional services",
+    "type" : "JobTitle"
+  }, {
+    "count" : 1,
+    "disambiguation" : null,
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.149569,
+    "sentiment" : null,
+    "text" : "Consultant Services Master",
+    "type" : "JobTitle"
+  }, {
+    "count" : 1,
+    "disambiguation" : null,
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.149569,
+    "sentiment" : null,
+    "text" : "30-days",
+    "type" : "Quantity"
+  }, {
+    "count" : 1,
+    "disambiguation" : null,
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.149569,
+    "sentiment" : null,
+    "text" : "$000",
+    "type" : "Quantity"
+  }, {
+    "count" : 1,
+    "disambiguation" : null,
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.149569,
+    "sentiment" : null,
+    "text" : "15%",
+    "type" : "Quantity"
+  }, {
+    "count" : 1,
+    "disambiguation" : null,
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.149569,
+    "sentiment" : null,
+    "text" : "5%",
+    "type" : "Quantity"
+  }, {
+    "count" : 1,
+    "disambiguation" : null,
+    "emotion" : null,
+    "mentions" : null,
+    "relevance" : 0.149569,
+    "sentiment" : null,
+    "text" : "#",
+    "type" : "Hashtag"
+  } ],
+  "fileName" : "XYZ Corp - SOW Example.docx",
+  "keywords" : [ {
+    "emotion" : null,
+    "relevance" : 0.747642,
+    "sentiment" : null,
+    "text" : "client name"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.7351,
+    "sentiment" : null,
+    "text" : "sample SOW text"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.658528,
+    "sentiment" : null,
+    "text" : "Standard Contractor invoicing"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.627832,
+    "sentiment" : null,
+    "text" : "Pocket Expenses"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.623699,
+    "sentiment" : null,
+    "text" : "project change control procedure"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.561426,
+    "sentiment" : null,
+    "text" : "terms of this SOW"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.558317,
+    "sentiment" : null,
+    "text" : "Contractor Responsibilities"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.551181,
+    "sentiment" : null,
+    "text" : "event of any conflict"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.55111,
+    "sentiment" : null,
+    "text" : "Contractor"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.547271,
+    "sentiment" : null,
+    "text" : "T&L expenses"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.547164,
+    "sentiment" : null,
+    "text" : "Client Responsibilities"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.546362,
+    "sentiment" : null,
+    "text" : "Period of Performance"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.544566,
+    "sentiment" : null,
+    "text" : "Consultant Services Master Agreement"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.544518,
+    "sentiment" : null,
+    "text" : "Project Manager Name"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.538148,
+    "sentiment" : null,
+    "text" : "Statement of Work"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.536745,
+    "sentiment" : null,
+    "text" : "paragraph text"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.536317,
+    "sentiment" : null,
+    "text" : "such activities"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.535721,
+    "sentiment" : null,
+    "text" : "consulting services"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.535238,
+    "sentiment" : null,
+    "text" : "completion of this Performance Period"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.532923,
+    "sentiment" : null,
+    "text" : "Services"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.53254,
+    "sentiment" : null,
+    "text" : "terms"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.531188,
+    "sentiment" : null,
+    "text" : "Deliverable Materials"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.529797,
+    "sentiment" : null,
+    "text" : "applicable business expenses"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.529722,
+    "sentiment" : null,
+    "text" : "Client"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.528765,
+    "sentiment" : null,
+    "text" : "30-days"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.5287,
+    "sentiment" : null,
+    "text" : "further investigation"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.528236,
+    "sentiment" : null,
+    "text" : "time period"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.5281,
+    "sentiment" : null,
+    "text" : "SOW"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.528068,
+    "sentiment" : null,
+    "text" : "Cost Center Number"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.527985,
+    "sentiment" : null,
+    "text" : "total value"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.526479,
+    "sentiment" : null,
+    "text" : "local transportation"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.525043,
+    "sentiment" : null,
+    "text" : "Client Project Manager"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.5232,
+    "sentiment" : null,
+    "text" : "business days"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.522454,
+    "sentiment" : null,
+    "text" : "Project Change Request"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.521298,
+    "sentiment" : null,
+    "text" : "terms of the body of this SOW"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.520801,
+    "sentiment" : null,
+    "text" : "Project Manager"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.520609,
+    "sentiment" : null,
+    "text" : "Terms of payment"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.520409,
+    "sentiment" : null,
+    "text" : "deliverable work product"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.518602,
+    "sentiment" : null,
+    "text" : "Invoices"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.516649,
+    "sentiment" : null,
+    "text" : "parties"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.516355,
+    "sentiment" : null,
+    "text" : "Project Managers"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.516287,
+    "sentiment" : null,
+    "text" : "term"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.515364,
+    "sentiment" : null,
+    "text" : "business"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.515274,
+    "sentiment" : null,
+    "text" : "terms of this Agreement"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.515124,
+    "sentiment" : null,
+    "text" : "PCR"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.514121,
+    "sentiment" : null,
+    "text" : "such investigation"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.514105,
+    "sentiment" : null,
+    "text" : "Agreement"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.513752,
+    "sentiment" : null,
+    "text" : "event of any inconsistencies"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.513475,
+    "sentiment" : null,
+    "text" : "XYZ Corp"
+  }, {
+    "emotion" : null,
+    "relevance" : 0.513376,
+    "sentiment" : null,
+    "text" : "RKO SolutionsStatement"
+  } ],
+  "sourceConnector" : "FileSystem Connector",
+  "sourceEnrichment" : "Watson Natural Language Understanding",
+  "sourceText" : "\tXYZ Corp\n100 Gas Street\nVancouver, BC\n\n\t\n\n\nSOW 10021 for Agreement to Perform Consulting Services to RKO SolutionsStatement of Work\n\n\tDate\n\tServices Performed By:\n\tServices Performed For:\n\n\tFebruary 1, 2016\tXYZ Corp\n100 Gas Street\nVancouver, BC\n\n\tRKO Solutions\n55 Water Street\nVancouver, BC\n\n\n\tPlaceholders for your content that appear in the paragraph text are shown in red and will change to the default text color when you add your content. Information that repeats in the document (such as client name) will be updated in all locations when you add or edit it once. \tThe text provided is sample SOW text that you can edit as applicable for your business.\tNote: to delete any tip, such as this one, just click the tip text and then press the spacebar.\n\n\nThis Statement of Work (SOW) is issued pursuant to the Consultant Services Master Agreement between RKO Solutions (â€œClientâ€�) and XYZ Corp (â€œContractorâ€�), effective [Click to select date] (the â€œAgreementâ€�). This SOW is subject to the terms and conditions contained in the Agreement between the parties and is made a part thereof. Any term not otherwise defined herein shall have the meaning specified in the Agreement. In the event of any conflict or inconsistency between the terms of this SOW and the terms of this Agreement, the terms of this SOW shall govern and prevail.\nThis SOW # 10021 (hereinafter called the â€œSOWâ€�), effective as of [Click to select date], is entered into by and between Contractor and Client, and is subject to the terms and conditions specified below. The Exhibit(s) to this SOW, if any, shall be deemed to be a part hereof. In the event of any inconsistencies between the terms of the body of this SOW and the terms of the Exhibit(s) hereto, the terms of the body of this SOW shall prevail. \nPeriod of Performance\nThe Services shall commence on [Click to select date], and shall continue through [Click to select date].\nEngagement Resources\n\tList names of resources and any key information about each.\n\n\nScope of Work\nContractor shall provide the Services and Deliverable(s) as follows:\n\tDescribe services and/or deliverables included in this SOW.\n\n\nDeliverable Materials\n\tIf this is an SOW for deliverable work product, describe deliverables here. If this is an SOW for services that do not include specific deliverables, you might want to include a statement such as â€œThere are no formal deliverables or work products defined in association with these services.â€�\n\n\nContractor Responsibilities\n\tDefine contractor responsibilities.\n\n\nClient Responsibilities\n\tDefine client responsibilities.\n\n\nFee Schedule\nThis engagement will be conducted on a Time & Materials basis. The total value for the Services pursuant to this SOW shall not exceed [$000] unless otherwise agreed to by both parties via the project change control procedure, as outlined within. A PCR will be issued specifying the amended value.\nThis figure is based on [000] hours of professional services. Contractor will provide up to [00] resources based on the following functional/rate structure.\n\tItem Description\n\tNumber of Resources\n\tHourly Rate\n\tNumber of Hours\n\n\t\n\t\n\t\n\t\n\n\t\n\t\n\t\n\t\n\n\t\n\t\n\t\n\t\n\n\nUpon completion of this Performance Period, Contractor and Client will have the option to renew this agreement for an additional then-stated number of hours at the then-current hourly rate for those resources identified.\n\tBill To Address\n\tClient Project Manager\n\tClient Cost Center\n\n\t55 Water Street\nVancouver, BC\n\n\t[Project Manager Name]\t[Cost Center Number]\n\nOut-of-Pocket Expenses / Invoice Procedures\nClient will be invoiced monthly for the consulting services and T&L expenses. Standard Contractor invoicing is assumed to be acceptable. Invoices are due upon receipt. \nClient will be invoiced all costs associated with out-of-pocket expenses (including, without limitation, costs and expenses associated with meals, lodging, local transportation and any other applicable business expenses) listed on the invoice as a separate line item. Reimbursement for out-of-pocket expenses in connection with performance of this SOW, when authorized and up to the limits set forth in this SOW, shall be in accordance with Clientâ€™s then-current published policies governing travel and associated business expenses, which information shall be provided by the Client Project Manager. The limit of reimbursable expenses pursuant to this SOW is estimated to be 15% of the fees unless otherwise authorized in writing and agreed to by both parties via the project change control procedure outlined within. \nInvoices shall be submitted monthly in arrears, referencing this Clientâ€™s SOW Number to the address indicated above. Each invoice will reflect charges for the time period being billed and cumulative figures for previous periods. Terms of payment for each invoice are due upon receipt by Client of a proper invoice. Contractor shall provide Client with sufficient details to support its invoices, including time sheets for services performed and expense receipts and justifications for authorized expenses, unless otherwise agreed to by the parties. Payments for services invoiced that are not received within 30-days from date of invoice will be subject to a 5% penalty per calendar month.\nCompletion Criteria\nContractor shall have fulfilled its obligations when any one of the following first occurs:\nContractor accomplishes the Contractor activities described within this SOW, including delivery to Client of the materials listed in the Section entitled â€œDeliverable Materials,â€� and Client accepts such activities and materials without unreasonable objections. No response from Client within 2-business days of deliverables being delivered by Contractor is deemed acceptance.\nContractor and/or Client has the right to cancel services or deliverables not yet provided with [20]Â business days advance written notice to the other party.\nAssumptions\n\tList any assumptions that are specific to this project.\n\n\nProject Change Control Procedure\nThe following process will be followed if a change to this SOW is required:\nA Project Change Request (PCR) will be the vehicle for communicating change. The PCR must describe the change, the rationale for the change, and the effect the change will have on the project.\nThe designated Project Manager of the requesting party (Contractor or Client) will review the proposed change and determine whether to submit the request to the other party.\nBoth Project Managers will review the proposed change and approve it for further investigation or reject it. Contractor and Client will mutually agree upon any charges for such investigation, if any. If the investigation is authorized, the Client Project Managers will sign the PCR, which will constitute approval for the investigation charges. Contractor will invoice Client for any such charges. The investigation will determine the effect that the implementation of the PCR will have on SOW price, schedule and other terms and conditions of the Agreement.\nUpon completion of the investigation, both parties will review the impact of the proposed change and, if mutually agreed, a Change Authorization will be executed.\nA written Change Authorization and/or PCR must be signed by both parties to authorize implementation of the investigated changes.\nIN WITNESS WHEREOF, the parties hereto have caused this SOW to be effective as of the day, month and year first written above.\n\t\n\tRKO Solutions\n\t\n\t\n\tXYZ Corp\n\n\n\tBy:\n\t\n\t\n\tBy:\n\t\n\n\tName:\n\t\n\t\n\tName:\n\t\n\n\tTitle:\n\t\n\t\n\tTitle:\n\t\n\n\n\n\n\n"
+}
